@@ -1,0 +1,199 @@
+TrackId             Name                AlbumId
+------------------  ------------------  ------------------
+1605                Fool In The Rain    130
+1665                Rain Song           137
+1784                I Wish It Would Ra  146
+1816                Crash Course In Br  149
+1988                Drain You           163
+2010                Drain You           164
+2095                Crazy Train         171
+2100                Crazy Train         174
+2116                Blue Train          175
+2236                Brain Damage        183
+2322                So Central Rain     190
+EmployeeId          LastName            FirstName           HireDate
+------------------  ------------------  ------------------  ------------------
+1                   Adams               Andrew              2002-08-14 00:00:0
+2                   Edwards             Nancy               2002-05-01 00:00:0
+3                   Peacock             Jane                2002-04-01 00:00:0
+4                   Park                Margaret            2003-05-03 00:00:0
+5                   Johnson             Steve               2003-10-17 00:00:0
+6                   Mitchell            Michael             2003-10-17 00:00:0
+7                   King                Robert              2004-01-02 00:00:0
+8                   Callahan            Laura               2004-03-04 00:00:0
+CustomerId          FirstName           LastName
+------------------  ------------------  ------------------
+29                  Robert              Brown
+FirstName           LastName            Address             City
+State               Country     PostalCode
+------------------  ------------------  ------------------  ------------------
+------------------  ----------  ----------
+Daan                Peeters             GrÚtrystraat 63     Brussels
+                    Belgium     1000
+Joao                Fernandes           Rua da Assunšao 53  Lisbon
+                    Portugal
+Madalena            Sampaio             Rua dos Campeoes E  Porto
+                    Portugal
+Ladislav            Kovßcs              ErzsÚbet krt. 58.   Budapest
+                    Hungary     H-1073
+City
+------------------
+Calgary
+Edmonton
+Lethbridge
+AVG of tracks, MB
+------------------
+33.5102
+TrackId             Name                Composer            AlbumId
+------------------  ------------------  ------------------  ------------------
+2                   Balls to the Wall                       2
+76                  Canta, Canta Mais                       8
+143                 The Begining... At                      14
+148                 The Beginning...At                      15
+155                 Warning                                 16
+182                 Freedom Of Speech                       18
+225                 Sozinho (Caedrum '                      22
+528                 Alegria, Alegria                        23
+281                 Computadores Fazem                      25
+322                 Livre Pra Viver                         28
+373                 Sao Lucas 2001                          32
+467                 Best Thing                              38
+513                 Ponto De Interroga                      41
+596                 A Rua                                   47
+645                 Swedish Schnapps                        51
+660                 Carta Ao Tom 74                         52
+674                 Preciso Apender a                       53
+729                 Juventude Transvia                      56
+744                 Mis Penas Lloraba                       57
+841                 Bringin' On The He                      67
+863                 Um Amor Puro                            69
+890                 Aprendendo A Jogar                      71
+948                 Easy                                    75
+988                 Desaforo                                78
+1072                Forty Days Instrum                      84
+1074                Baiao Da Penha                          85
+1101                De Ouro E Marfim (                      86
+1104                Pretinha                                87
+1157                Rocket Queen                            90
+1173                Coma                                    91
+1211                Hallowed Be Thy Na                      94
+1301                Acacia Avenue                           102
+1314                Fear Of The Dark                        103
+1324                Running Free                            104
+1352                Intro                                   108
+1502                Circles                                 121
+1519                Taj Mahal                               122
+1531                Onibusfobia                             123
+1561                Tyrant (Live)                           125
+2228                Equal Rights Downp                      141
+1743                Lß Vem O Sol (Here                      142
+1744                O ┌ltimo RomÔntico                      143
+1774                Get My Hands On So                      146
+1800                No Sign of Yesterd                      147
+2029                Elza                                    165
+2043                Olodum - Smile (In                      166
+2092                SKA                                     169
+2253                Se Liga                                 184
+2357                Rock Das Aranhas (                      192
+2433                The Way You Do To                       198
+2638                Earth Mofo                              213
+2780                Formigueiro                             223
+2819                Battlestar Galacti                      226
+2838                Crossroads, Pt. 2                       227
+3223                How to Stop an Exp                      228
+3252                Through the Lookin                      229
+2925                Exodus (Part 3) [S                      230
+2924                Live Together, Die                      231
+3051                Until My Dying Day                      241
+3131                Soneto Da Separaca                      247
+3177                Hot Girl                                249
+3199                Casino Night - Sea                      250
+3429                The Return                              251
+3249                The Hand of God                         253
+3250                Pilot                                   254
+3275                Real Love                               255
+3287                Paranoid                                256
+3299                Send Me an Angel                        257
+3335                Freestyle Love                          259
+3336                War Pigs                                260
+3364                There's No Place L                      261
+3374                All Night Thing                         269
+3402                Band Members Discu                      271
+3444                Romeo et Juliette:                      310
+3452                SCRIABIN: Prelude                       318
+3466                Rehab (Hot Chip Re                      321
+3470                I Heard Love Is Bl                      322
+3478                Slowness                                323
+3481                A Midsummer Night'                      326
+3496                ╔tude 1, In C Majo                      340
+3497                Erlkonig, D.328                         341
+3499                Pini Di Roma (Pini                      343
+2109                Paranoid            A. F. Iommi, W. Wa  174
+1908                New Rhumba          A. Jamal            157
+415                 Astronomy           A.Bouchard/J.Bouch  35
+2589                Hard To Handle      A.Isbell/A.Jones/O  210
+22                  Whole Lotta Rosie   AC/DC               4
+3427                Fanfare for the Co  Aaron Copland       296
+3357                OAM's Blues         Aaron Goldberg      267
+453                 Cold Gin            Ace Frehley         37
+3159                Camarao que Dorme   Acyi Marques/Arlin  248
+3158                Saudade Louca       Acyr Marques/Arlin  248
+567                 Tradišao            Adalto Magalha/Lou  45
+2974                Yahweh              Adam Clayton, Bono  235
+2948                Grace               Adam Clayton, Bono  233
+1424                Hey America         Addie William Jone  115
+191                 Machine Men         Adrian Smith        19
+1383                Stranger in a Stra  Adrian Smith        111
+1221                2 Minutes To Midni  Adrian Smith/Bruce  95
+1319                2 Minutes To Midni  Adrian Smith/Bruce  104
+CustomerId          FirstName           LastName            Company
+Address             City        State       Country     PostalCode  Phone
+Fax         Email        SupportRepId
+------------------  ------------------  ------------------  ------------------
+------------------  ----------  ----------  ----------  ----------  ----------
+----------  -----------  ------------
+60                  Mark                Szalai              BGF
+Buzogany utca 11-1  Budapest                Hungary     1149
+            mark@hht.hu
+CustomerId          FirstName           LastName            Company
+Address             City        State       Country     PostalCode  Phone
+Fax         Email        SupportRepId
+------------------  ------------------  ------------------  ------------------
+------------------  ----------  ----------  ----------  ----------  ----------
+----------  -----------  ------------
+60                  Mark                Szalai              BGF
+Buzogany utca 11-1  Budapest                Hungary     1111
+            mark@hht.hu
+Country             No
+------------------  ------------------
+USA                 13
+Canada              8
+Brazil              5
+France              5
+Germany             4
+Country             No
+------------------  ------------------
+Argentina           1
+Australia           1
+Austria             1
+Belgium             1
+Chile               1
+Denmark             1
+Finland             1
+Ireland             1
+Italy               1
+Netherlands         1
+Norway              1
+Poland              1
+Spain               1
+Sweden              1
+Czech Republic      2
+Hungary             2
+India               2
+Portugal            2
+United Kingdom      3
+Germany             4
+Brazil              5
+France              5
+Canada              8
+USA                 13
