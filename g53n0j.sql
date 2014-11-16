@@ -1,0 +1,15 @@
+select * from Genre limit 9,11;
+select TrackId,Name,AlbumId from Track where name like '%Rain%' limit 9, 11;
+select EmployeeId,LastName,FirstName,HireDate from Employee where HireDate between '2002-01-01' and '2004-12-31';
+select CustomerId,FirstName,LastName from Customer where FirstName = 'Robert' and LastName = 'Brown';
+select FirstName,LastName,Address,City,State,Country,PostalCode from Customer where Country = 'Hungary' or Country = 'Belgium' or Country = 'Portugal';
+select City from Employee group by City;
+select round(avg(Bytes)/1000000,4) as 'AVG of tracks, MB' from Track;
+select TrackId,Name,Composer,AlbumId from Track group by Composer, AlbumId order by Composer asc limit 100;
+insert into Customer (FirstName,LastName,Company,Country,City,PostalCode,Address,Email) values('Mark','Szalai','BGF','Hungary','Budapest','1149','Buzogany utca 11-13','mark@hht.hu');
+select * from Customer where email = 'mark@hht.hu';
+delete from Customer where email = 'mark@hht.hu';
+insert into Customer (FirstName,LastName,Company,Country,City,PostalCode,Address,Email) values('Mark','Szalai','BGF','Hungary','Budapest','1111','Buzogany utca 11-13','mark@hht.hu');
+select * from Customer where email = 'mark@hht.hu';
+select Country,count(Country) as No from Customer group by country order by No desc limit 5;
+select Country,count(Country) as No from Customer group by country order by No;
